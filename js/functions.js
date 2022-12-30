@@ -1,3 +1,5 @@
+useCustomThemeForTool("42,154,140", "32,44,40");
+
 window.addEventListener("DOMContentLoaded", function() {
     setActive("acc");
     displayOD();
