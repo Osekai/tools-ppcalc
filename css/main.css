@@ -2,14 +2,10 @@
     --accentdark: 32,44,40;
 }
 .tools__tool-container-inner {
+    --background-color: #192321;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #192321;
-    background-image: url("/tools/src/ppcalc/images/bg.jpg");
-    background-size: cover;
-    image-rendering: smooth;
-    background-position: center;
 }
 .ppcalc__bg-bottomleft {
     left: 94px;

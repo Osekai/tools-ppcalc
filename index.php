@@ -1,5 +1,4 @@
-<!-- funny background -->
-
+<div class="tools__tool-generic-background"></div>
 <div class="tools__tool">
     <section class="osekai__panel">
         <div class="osekai__panel-header">
